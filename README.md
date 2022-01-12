@@ -1,8 +1,10 @@
 ### About
 
+![image](https://user-images.githubusercontent.com/941226/149210838-a10f5f74-47e3-49d5-b837-b3d3aa5bad62.png)
+
 This is a simple HTML / CSS / JavaScript project to demonstrate the use of a single `setInterval` function to calculate and apply the UTC offsets for various world cities.
 
-Inteded for education and learning purposes only.  The CSS is based on an [analog clock from dev.to](https://dev.to/code_mystery/simple-analog-clock-using-html-css-javascript-2c6a).
+Intended for education and learning purposes only.  The CSS is based on an [analog clock from dev.to](https://dev.to/code_mystery/simple-analog-clock-using-html-css-javascript-2c6a).
 
 ### Run
 
